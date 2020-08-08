@@ -1,0 +1,56 @@
+.puzzle--2{
+  margin: 0 auto;
+  width: 1024px;
+}
+
+.header{
+  height: 256px;
+  background-color: #e53935;
+}
+
+.main{
+  display: flex;
+  height: 1024px;
+}
+
+.main__left--content{
+  width: 340px;
+  background-color: #fbc02d;
+}
+
+.main__right--content{
+  width: 684px;
+}
+
+.main__right--content__top{
+  display: flex;
+}
+
+.main__right--content__top__left{
+  width: 428px;
+}
+
+.main__right--content__top__left__top{
+  height: 256px;
+  background-color: #8bc34a;
+}
+
+.main__right--content__top__left__bottom{
+  height: 512px;
+  background-color: #1976d2;
+}
+
+.main__right--content__top__right{
+  width: 256px;
+  background-color: #fbc02d;
+}
+
+.main__right--content__bottom{
+  height: 256px;
+  background-color: #8bc34a;
+}
+
+.footer{
+  height: 256px;
+  background-color: #1976d2;
+}
