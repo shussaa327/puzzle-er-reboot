@@ -1,29 +1,29 @@
-.puzzle--1{
+.puzzle--1 {
   margin: 0 auto;
   width: 1024px;
 }
 
-.header{
+.header {
   height: 256px;
   background-color: #e53935;
 }
 
-.main{
+.main {
   display: flex;
   height: 1024px;
 }
 
-.main--left--content{
+.main--left--content {
   width: 340px;
   background-color: #fbc02d;
 }
 
-.main--right--content{
+.main--right--content {
   width: 684px;
   background-color: #8bc34a;
 }
 
-.footer{
+.footer {
   height: 256px;
   background-color: #1976d2;
 }

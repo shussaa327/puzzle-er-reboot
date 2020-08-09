@@ -1,0 +1,24 @@
+.puzzle--3 {
+  margin: 0 auto;
+  width: 320px;
+}
+
+.header {
+  height: 156px;
+  background-color: #e53935;
+}
+
+.main__content-1 {
+  height: 250px;
+  background-color: #fbc02d;
+}
+
+.main__content-2 {
+  height: 250px;
+  background-color: #8bc34a;
+}
+
+.footer {
+  height: 156px;
+  background-color: #1976d2;
+}
