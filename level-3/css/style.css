@@ -8,6 +8,27 @@
   background-color: #e53935;
 }
 
+.header__contents {
+  display: flex;
+  float: right;
+  margin-top: 20px;
+  margin-right: 10px;
+  background-color: #fff;
+}
+
+.header__content {
+  height: 40px;
+  width: 40px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  background-color: #9b9b9b;
+}
+
+.header__content-1 {
+  margin-left: 10px;
+}
+
 .main__content-1 {
   height: 250px;
   background-color: #fbc02d;
@@ -16,6 +37,18 @@
 .main__content-2 {
   height: 250px;
   background-color: #8bc34a;
+}
+
+.main__content-2__list {
+  padding: 30px 20px;
+}
+
+.main__content-2__list  li {
+  height: 30px;
+  width: 220px;
+  margin-bottom: 10px
+  border: white 2px solid;
+  background-color: #f5dfb3;
 }
 
 .footer {
